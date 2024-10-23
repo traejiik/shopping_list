@@ -1,5 +1,22 @@
+body {
+    background-color: rgb(4, 4, 46);
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 1em;
+    display: block;
+}
+
 li {
   margin-bottom: 0.75em;
+}
+
+span:hover {
+    background-color: aqua;
+    color: black;
+    border-radius: 0.25em;
+    padding: 0.25em;
+    font-size: larger;
+    font-weight: bold;
 }
 
 li button {
